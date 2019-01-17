@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "student",
+      "type": "cn.ymsxyz.quick.QuickApplicationTests",
+      "sourceType": "cn.ymsxyz.quick.QuickApplicationTests"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
